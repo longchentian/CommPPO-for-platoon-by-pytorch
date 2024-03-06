@@ -14,9 +14,9 @@ Trick 9—Adam Optimizer Epsilon Parameter.<br />
 Trick10—Tanh Activation Function.<br />
 
 ## Trainning result
-![image](https://github.com/longchentian/main/output/Location_time20240228182048.png)
+![image](./output/Location_time20240228182048.png)
 
-![image](https://github.com/longchentian/main/output/speed_error_time20240228181739.png)
+![image](./output/speed_error_time20240228181739.png)
 ## 参考文献
 [A Reinforcement Learning-Based Vehicle Platoon Control Strategy for Reducing Energy Consumption in Traffic Oscillations | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9410239)
 ## 使用方法

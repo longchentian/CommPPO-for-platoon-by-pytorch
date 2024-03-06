@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2022-11-17 16:21:11 by Eclipse SUMO netedit Version 1.15.0
+-->
+
+<routes>
+    <!-- VTypes -->
+    <vType id="DEFAULT_PEDTYPE" vClass="pedestrian"/>
+    <vType id="IDM" maxSpeed="33.00" vClass="ignoring" carFollowModel="IDM"/>
+    <!-- Vehicles, persons and containers (sorted by depart) -->
+    <trip id="a" type="IDM" depart="0.00" departPos="1000.00" departSpeed="20.00" color="red" from="E0" to="E0">
+        <stop lane="E0_0" startPos="1800.00" endPos="1810.00" duration="10.00"/>
+        <stop lane="E0_0" startPos="2500.00" endPos="2510.00" speed="5.00"/>
+    </trip>
+    <trip id="b.0" type="IDM" depart="0.00" departPos="960.00" departSpeed="20.00" color="green" from="E0" to="E0"/>
+    <trip id="b.1" type="IDM" depart="0.00" departPos="920.00" departSpeed="20.00" color="green" from="E0" to="E0"/>
+    <trip id="b.2" type="IDM" depart="0.00" departPos="880.00" departSpeed="20.00" color="green" from="E0" to="E0"/>
+    <trip id="b.3" type="IDM" depart="0.00" departPos="840.00" departSpeed="20.00" color="green" from="E0" to="E0"/>
+    <trip id="b.4" type="IDM" depart="0.00" departPos="800.00" departSpeed="20.00" color="green" from="E0" to="E0"/>
+    <trip id="b.5" type="IDM" depart="0.00" departPos="760.00" departSpeed="20.00" color="green" from="E0" to="E0"/>
+    <trip id="b.6" type="IDM" depart="0.00" departPos="720.00" departSpeed="20.00" color="green" from="E0" to="E0"/>
+    <trip id="b.7" type="IDM" depart="0.00" departPos="680.00" departSpeed="20.00" color="green" from="E0" to="E0"/>
+    <trip id="c.0" type="IDM" depart="0.00" departPos="640.00" departSpeed="20.00" color="green" from="E0" to="E0"/>
+    <trip id="c.1" type="IDM" depart="0.00" departPos="600.00" departSpeed="20.00" color="green" from="E0" to="E0"/>
+    <trip id="c.2" type="IDM" depart="0.00" departPos="560.00" departSpeed="20.00" color="green" from="E0" to="E0"/>
+    <trip id="c.3" type="IDM" depart="0.00" departPos="520.00" departSpeed="20.00" color="green" from="E0" to="E0"/>
+    <trip id="c.4" type="IDM" depart="0.00" departPos="480.00" departSpeed="20.00" color="green" from="E0" to="E0"/>
+    <trip id="c.5" type="IDM" depart="0.00" departPos="440.00" departSpeed="20.00" color="green" from="E0" to="E0"/>
+    <trip id="c.6" type="IDM" depart="0.00" departPos="400.00" departSpeed="20.00" color="green" from="E0" to="E0"/>
+    <trip id="c.7" type="IDM" depart="0.00" departPos="360.00" departSpeed="20.00" color="green" from="E0" to="E0"/>
+</routes>

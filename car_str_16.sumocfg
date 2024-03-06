@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2022-11-17 16:22:13 by Eclipse SUMO GUI Version 1.15.0
+-->
+
+<configuration>
+
+    <input>
+        <net-file value="car_str_16.net.xml"/>
+        <route-files value="car_str_16.rou.xml"/>
+    </input>
+    <processing>
+        <collision.action value="none"/>
+        <collision.mingap-factor value = "0"/>
+    </processing>
+
+</configuration>
